@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HONG and TED"
-author: "Paul Le"
+author: "HONG"
 categories: facts
 tags: [sample]
 image: cuba-2.jpg
